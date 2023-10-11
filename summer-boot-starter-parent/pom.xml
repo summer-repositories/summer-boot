@@ -60,7 +60,7 @@
         <commons-io.version>2.13.0</commons-io.version>
         <commons-lang3.version>3.13.0</commons-lang3.version>
         <fastjson.version>2.0.33</fastjson.version>
-        <guava.version>32.0.1-jre</guava.version>
+        <guava.version>32.1.3-jre</guava.version>
         <java-jwt.version>4.4.0</java-jwt.version>
         <jsoup.version>1.16.1</jsoup.version>
         <okhttp3.version>4.11.0</okhttp3.version>
